@@ -11,13 +11,13 @@ import { getDatabase,ref,onValue } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBQcWw2sbM23Cr1qk1K1-ekM5VbsL1Kod4",
-  authDomain: "playground-5abda.firebaseapp.com",
-  databaseURL: "https://playground-5abda-default-rtdb.firebaseio.com",
-  projectId: "playground-5abda",
-  storageBucket: "playground-5abda.appspot.com",
-  messagingSenderId: "667755868201",
-  appId: "1:667755868201:web:398a455174da5761866c38"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "....firebaseio.com",
+  projectId: "playground-5ab",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
