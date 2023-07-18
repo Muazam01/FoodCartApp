@@ -13,7 +13,7 @@ import { getDatabase,ref,onValue } from "firebase/database";
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
-  databaseURL: "....firebaseio.com",
+  databaseURL: "....firebasei.com",
   projectId: "playground-5ab",
   storageBucket: "",
   messagingSenderId: "",
